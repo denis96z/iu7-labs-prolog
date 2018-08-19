@@ -1,0 +1,9 @@
+### Directories ###
+*/Obj/
+*/Exe/
+*/Deb/
+
+### Files ###
+*.env
+*.manifest
+*.version
