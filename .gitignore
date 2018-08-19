@@ -5,5 +5,6 @@
 
 ### Files ###
 *.env
+*.prjgrd
 *.manifest
 *.version

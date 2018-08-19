@@ -1,0 +1,4 @@
+﻿#include @"main.ph"
+#include @"pfc\console\console.ph"
+#include @"pfc\core.ph"
+#include @"main.pro"
